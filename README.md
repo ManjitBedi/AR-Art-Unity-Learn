@@ -1,6 +1,6 @@
 # AR-Art-Unity-Learn
 
-Is is art, I don't know 😀.  I am working on making it more interesting.
+Is it art, I don't know 😀.  I am working on making it more interesting.
 
 This project is based on a tutorial exercise on Unity Learn.
 
