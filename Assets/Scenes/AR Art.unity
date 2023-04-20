@@ -342,7 +342,7 @@ MonoBehaviour:
   m_SerializedLibrary: {fileID: 11400000, guid: c0b1ba13a95ac45e2925315122a81b4a,
     type: 2}
   m_MaxNumberOfMovingImages: 0
-  m_TrackedImagePrefab: {fileID: 7734427170679697292, guid: 080ebfaf0cc694b6c9a941ddf7ea732c,
+  m_TrackedImagePrefab: {fileID: 2307344388848750821, guid: ac61c761b0d4b4f818feaecbb327d060,
     type: 3}
 --- !u!114 &867703935
 MonoBehaviour:
@@ -439,6 +439,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ee43194ecacf49248efe2fcb6632719, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxScale: 2
+  minScale: 0.25
 --- !u!1 &1556547380
 GameObject:
   m_ObjectHideFlags: 0
