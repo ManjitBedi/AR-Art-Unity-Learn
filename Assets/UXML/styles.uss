@@ -1,0 +1,17 @@
+.Button {
+    border-left-color: rgb(226, 161, 5);
+    border-right-color: rgb(226, 161, 5);
+    border-top-color: rgb(226, 161, 5);
+    border-bottom-color: rgb(226, 161, 5);
+    background-color: rgba(248, 235, 64, 0.52);
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    color: rgb(226, 56, 5);
+    -unity-font-style: bold;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+}

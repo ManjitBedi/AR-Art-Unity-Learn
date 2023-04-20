@@ -1,0 +1,7 @@
+.default_panel {
+    background-color: rgba(212, 0, 210, 0.58);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}

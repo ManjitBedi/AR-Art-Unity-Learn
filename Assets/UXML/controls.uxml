@@ -1,8 +1,9 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UXML/Resources/ColorPanel.uss?fileID=7433441132597879392&amp;guid=e73e2e100e47c42f08f6d7ed3dffe4d2&amp;type=3#ColorPanel" />
     <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); flex-basis: 70%;" />
-    <ui:VisualElement name="Buttons-Container" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); flex-direction: row;">
-        <ui:Button text="Scale" display-tooltip-when-elided="true" name="scale" />
-        <ui:Button text="Fun" display-tooltip-when-elided="true" name="fun" />
+    <ui:VisualElement name="buttons-container" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); flex-direction: row;">
+        <ui:Button text="Scale" display-tooltip-when-elided="true" name="scale" class="Button" style="-unity-text-align: middle-right;" />
+        <ui:Button text="\u263A" display-tooltip-when-elided="true" name="action" class="Button" />
     </ui:VisualElement>
     <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); flex-basis: 10%;" />
 </ui:UXML>
